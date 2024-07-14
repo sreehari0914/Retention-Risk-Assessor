@@ -1,16 +1,14 @@
 // src/App.js
 import React from 'react';
 import FileUpload from './components/FileUpload';
+import './App.css';
 
 function App() {
-    return (
-        <div className="App">
-            <header className="App-header">
-                <h1>XLSX File Editor</h1>
-            </header>
-            <FileUpload />
-        </div>
-    );
+  return (
+    <div className="App">
+      <FileUpload />
+    </div>
+  );
 }
 
 export default App;
