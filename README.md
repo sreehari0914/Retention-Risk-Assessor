@@ -1,3 +1,4 @@
+
 # Retention Risk Assessor
 
 ## Introduction
@@ -6,7 +7,7 @@ Building a machine learning model from scratch using Logistic Regression to pred
 
 ## DEMO
 
-[Watch the video demonstrating the project](https://www.youtube.com/watch?v=CVRS_CpXdF0)
+[![Watch the video](https://img.youtube.com/vi/CVRS_CpXdF0/0.jpg)](https://youtu.be/CVRS_CpXdF0)
 
 ## What Inspired Us
 
@@ -42,7 +43,3 @@ While building the project, we encountered several challenges:
 ## Conclusion
 
 Building the Retention Risk Assessor has been an inspiring journey. It has enabled us to learn and apply various technologies and skills while overcoming challenges along the way. We are excited about the potential of this tool to help organizations improve their employee retention strategies and look forward to further enhancing its capabilities and user experience in the future.
-
-## Video Link
-
-[Watch the video demonstrating the project](https://www.youtube.com/watch?v=CVRS_CpXdF0)
